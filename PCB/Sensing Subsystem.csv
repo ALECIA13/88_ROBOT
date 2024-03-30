@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D3,D4,D6";"XDCR_SFH_203_PFA";3;"SFH_203_PFA";;;
+2;"JP10,JP3,JP11,JP7,JP1,JP8,JP4,JP9,JP5,JP2,JP12,JP6";"SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm";12;"SolderJumper_2_Open";;;
+3;"R7,R1,R8";"R_0805_2012Metric";3;"100k";;;
+4;"C1,C7,C3";"C_0805_2012Metric";3;"22uF";;;
+5;"D5,D1,D8,D2";"LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack";4;"TSAL4400";;;
+6;"R9,R6,R4,R2";"R_0805_2012Metric";4;"22";;;
+7;"TP5,TP2,TP7,TP4,TP6,TP1,TP3";"TestPoint_Pad_D1.0mm";7;"TestPoint";;;
+8;"R10,R5,R3";"R_0805_2012Metric";3;"82k";;;
+9;"C4,C8,C2";"C_0805_2012Metric";3;"10uF";;;
+10;"J2";"JST_PHD_B28B-PHDSS_2x14_P2.00mm_Vertical";1;"Conn_02x14_Odd_Even";;;
